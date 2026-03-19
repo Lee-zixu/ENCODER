@@ -2,9 +2,9 @@
 <div align="center">
   <img src="./assets/encoder-logo.png" width="500"> 
   <h1>(AAAI 2025) ENCODER: Entity Mining and Modification Relation Binding for Composed Image Retrieval</h1>
-  <p align="center">
+  <!-- <p align="center">
   <img src="assets/encoder-intro.png" alt="ENCODER motivation" width="500">
-</p>
+</p> -->
   <p>
       <a href="https://aaai.org/Conferences/AAAI-25/"><img src="https://img.shields.io/badge/AAAI-2025-blue.svg?style=flat-square" alt="AAAI 2025"></a>
       <a href="https://sdu-l.github.io/ENCODER.github.io/"><img alt='Project Page' src="https://img.shields.io/badge/Project-Website-orange"></a>
