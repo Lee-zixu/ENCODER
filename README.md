@@ -66,7 +66,7 @@ ENCODER consistently outperforms existing baselines on four widely-used datasets
 ### 2. Fashion200K Dataset
 *(Evaluated using Recall@K)* 
 <p align="center">
-  <img src="assets/fashion200k-results.png" alt="CIRR Results" width="300">
+  <img src="assets/fashion200k-results.png" alt="CIRR Results" width="500">
 </p>
 
 ### 3. CIRR Dataset
