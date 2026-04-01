@@ -296,6 +296,24 @@ If you have any questions, feel free to [open an issue](https://github.com/Lee-z
 <table style="width:100%; border:none; text-align:center; background-color:transparent;">
   <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
+      <img src="/assets/logos/consep-logo.png" alt="ConeSep" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <b>ConeSep (CVPR'26)</b><br>
+      <span style="font-size: 0.9em;">
+        <a href="https://lee-zixu.github.io/ConeSep.github.io/" target="_blank">Web</a> | 
+        <a href="https://github.com/lee-zixu/ConeSep" target="_blank">Code</a> | 
+        <!-- <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37608" target="_blank">Paper</a> -->
+      </span>
+    </td>
+     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
+      <img src="/assets/logos/airknow-logo.png" alt="Air-Know" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
+      <b>Air-Know (CVPR'26)</b><br>
+      <span style="font-size: 0.9em;">
+        <a href="https://zhihfu.github.io/Air-Know.github.io/" target="_blank">Web</a> | 
+        <a href="https://github.com/zhihfu/Air-Know" target="_blank">Code</a> | 
+        <!-- <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37608" target="_blank">Paper</a> -->
+      </span>
+    </td>
+    <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logos/habit-logo.png" alt="HABIT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>HABIT (AAAI'26)</b><br>
       <span style="font-size: 0.9em;">
@@ -313,6 +331,8 @@ If you have any questions, feel free to [open an issue](https://github.com/Lee-z
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39507" target="_blank">Paper</a>
       </span>
     </td>
+  </tr>    
+  <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logos/intent-logo.png" alt="INTENT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>INTENT (AAAI'26)</b><br>
