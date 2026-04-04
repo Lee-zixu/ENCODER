@@ -337,6 +337,8 @@ If you have any questions, feel free to [open an issue](https://github.com/Lee-z
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37608" target="_blank">Paper</a>
       </span>
     </td>
+  </tr>    
+  <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logos/retrack-logo.png" alt="ReTrack" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>ReTrack (AAAI'26)</b><br>
@@ -346,8 +348,6 @@ If you have any questions, feel free to [open an issue](https://github.com/Lee-z
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39507" target="_blank">Paper</a>
       </span>
     </td>
-  </tr>    
-  <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logos/intent-logo.png" alt="INTENT" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>INTENT (AAAI'26)</b><br>
@@ -366,8 +366,8 @@ If you have any questions, feel free to [open an issue](https://github.com/Lee-z
         <a href="https://dl.acm.org/doi/10.1145/3746027.3755445" target="_blank">Paper</a>
       </span>
     </td>
-    <!-- </tr>
-  <tr style="border:none;"> -->
+    </tr>
+  <tr style="border:none;">
     <td style="width:30%; border:none; vertical-align:top; padding-top:30px;">
       <img src="/assets/logos/offset-logo.png" alt="OFFSET" style="height:65px; width:auto; border-radius:8px; margin-bottom:8px;"><br>
       <b>OFFSET (ACM MM'25)</b><br>
