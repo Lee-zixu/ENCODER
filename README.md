@@ -389,6 +389,9 @@ We welcome all forms of contributions! If you have any questions, ideas, or find
 
 [⬆ Back to top](#top)
 
+## 📄 License
+
+This project is released under the terms of the [LICENSE](./LICENSE) file included in this repository.
 
 ---
 
